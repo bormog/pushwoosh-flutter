@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
-  s.dependency 'PushwooshXCFramework', '6.7.6'
+  s.dependency 'PushwooshXCFramework', '6.8.5'
   s.static_framework = true
 
 
